@@ -1,0 +1,10 @@
+默认的游戏图片地址：
+    http://s1.mljr.com/cms/asset/2016-12/14/c27a/ab39/a208aff98764b00361f32c33.jpg
+默认的QQ图片地址：
+    http://s1.mljr.com/cms/asset/2016-12/14/e540/c737/56229bd8cf276ec909826891.jpg
+
+----------------------------------------------------------------------------------------
+游戏图片地址：
+    奥比岛	http://s1.mljr.com/cms/asset/2016-12/14/cd18/c3d2/34f36232f57136660cb8cfc6.jpg
+    艾尔之光	http://s1.mljr.com/cms/asset/2016-12/14/a84f/e2af/5bf18b211cc9e6ef3b6e4501.jpg  
+    SD敢达	http://s1.mljr.com/cms/asset/2016-12/14/8af5/aa26/80ebfc233437792fbc1fd9ea.jpg
